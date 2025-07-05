@@ -1,0 +1,11 @@
+{
+  "type": "micro",
+  "wake_word": "Glados",
+  "author": "nerdaxic/glados-voice-assistant",
+  "model": "https://github.com/nerdaxic/glados-voice-assistant/tree/main/models/openWakeWord/glados.tflite",
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.97,
+    "sliding_window_size": 5,
+  }
+}
