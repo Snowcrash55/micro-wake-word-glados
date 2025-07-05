@@ -4,6 +4,7 @@
   "author": "nerdaxic glados-voice-assistant",
   "model": "https://github.com/Snowcrash55/micro-wake-word-glados/raw/main/models/glados.tflite",
   "version": 2,
+  "trained_languages": ["en"],
   "micro": {
     "probability_cutoff": 0.9,
     "sliding_window_size": 5,
