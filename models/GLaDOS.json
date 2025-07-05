@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "Glados",
   "author": "nerdaxic glados-voice-assistant",
-  "model": "https://github.com/nerdaxic/glados-voice-assistant/raw/main/models/openWakeWord/glados.tflite",
+  "model": "https://github.com/Snowcrash55/micro-wake-word-glados/raw/main/models/glados.tflite",
   "version": 2,
   "micro": {
     "probability_cutoff": 0.9,
